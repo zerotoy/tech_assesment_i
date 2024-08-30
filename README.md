@@ -1,9 +1,9 @@
 **Di Windows**
-Instal Python
 
+1. Instal Python
 Unduh dan instal Python dari situs resmi Python. Pastikan untuk mencentang opsi "Add Python to PATH" selama instalasi.
-Buka Command Prompt
 
+2. Buka Command Prompt
 Tekan Win + R, ketik cmd, lalu tekan Enter.
 Navigasi ke Direktori Skrip
 
@@ -13,7 +13,7 @@ bash
 cd C:\path\to\your\script
 Jalankan Skrip
 
-Jalankan skrip dengan perintah:
+3. Jalankan skrip dengan perintah:
 bash
 
 python test.py
