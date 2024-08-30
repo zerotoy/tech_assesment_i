@@ -1,4 +1,4 @@
-#Di Windows
+**Di Windows**
 Instal Python
 
 Unduh dan instal Python dari situs resmi Python. Pastikan untuk mencentang opsi "Add Python to PATH" selama instalasi.
@@ -18,7 +18,7 @@ bash
 
 python test.py
 
-#Di Linux/macOS
+**Di Linux/macOS**
 Instal Python
 
 Python biasanya sudah terinstal di Linux/macOS. Jika tidak, Anda bisa menginstalnya melalui package manager:
