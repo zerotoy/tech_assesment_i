@@ -1,6 +1,5 @@
 def max_skills(j_skill, list_skills, list_bonus):
     pemain = sorted(zip(list_skills, list_bonus), key=lambda x: x[0])
-
     for skill, bonus in pemain:
         if j_skill >= skill:
             j_skill += bonus
